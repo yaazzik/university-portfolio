@@ -2,10 +2,10 @@
 
 import Accordion from "react-bootstrap/Accordion";
 
-export default function FuncName() {
+export default function ITRec() {
   return (
     <div className='flex flex-col items-center'>
-      <h3 className='mb-5'>MainHeader</h3>
+      <h3 className='mb-5'>IT recruitment</h3>
       <div className='w-1/2'>
         <Accordion>
           <Accordion.Item eventKey="0">
