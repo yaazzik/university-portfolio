@@ -60,7 +60,7 @@ export default function FuncName() {
                    href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fvah2w70OIN2JAwtFlqO9EzzuQ0bpVfq3z3bkE%2BWyncypmOtfui8U2ec0OLRkKdJRq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FIT%20%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82%2FIT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206-7%20%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%20%D0%9C%D0%94.pdf&name=IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206-7%20%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%20%D0%9C%D0%94.pdf&nosw=1" target="_blank">Решение</a>
             </Accordion.Body>
           </Accordion.Item>
-          <Accordion.Item eventKey="0">
+          <Accordion.Item eventKey="5">
             <Accordion.Header>Лабораторная работа 8-9</Accordion.Header>
               <Accordion.Body className="text-green-500 bg-black">
                 <p>Презентация для собеседования</p>
